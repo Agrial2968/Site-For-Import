@@ -1,4 +1,5 @@
 Thumbs.db
 .Trashes
 .DS_Store
-*._old
+*_old
+tmp/
